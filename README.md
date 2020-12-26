@@ -5,4 +5,4 @@ and also open every channel page on your chrome window.
 
 Two files are added:
 1. main.py ( python code )
-2. youtube channel finder (file of jupyter notebook ) with output
+2. youtube channel finder by keyword search (file of jupyter notebook ) with output
